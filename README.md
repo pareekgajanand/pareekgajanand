@@ -6,15 +6,13 @@
 
 - 👯 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://singhalsuryansh.netlify.app/](https://singhalsuryansh.netlify.app/)
-
-- 📝 I regularly write articles on [https://singhalsuryansh.netlify.app/](https://singhalsuryansh.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://singhalsuryansh.netlify.app/](https://github.com/pareekgajanand)](https://github.com/pareekgajanand)
 
 - 💬 Ask me about **Back-End Development.**
 
-- 📫 How to reach me **singhalsuryansh.0306@gmail.com**
+- 📫 How to reach me **gajanandpareek862@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/suryansh-singhal-25b375201/](https://www.linkedin.com/in/suryansh-singhal-25b375201/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/gajanand-pareek-23aa7022b/](https://www.linkedin.com/in/gajanand-pareek-23aa7022b/)
 
 - ⚡ Fun fact **I think I am funny.**
 
