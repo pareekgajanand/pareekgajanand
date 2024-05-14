@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack and machine learning developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=2765&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently working on **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pareekgajanand](https://github.com/pareekgajanand)
 
